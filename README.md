@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Felipe, Computer Science student. my main focus is Java and Spring. Sometimes I take a look at mobile development with Kotlin. <br>
+I'm Felipe, Computer Science student. my main focus is Java and Spring. Sometimes I take a look at mobile development. <br>
 Here, I document my evolution process. 🚀
 
 ____
