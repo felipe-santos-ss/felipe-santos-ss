@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Felipe, a Computer Science student and software developer with a focus on Backend, passionate about technology and innovation.  
+I'm Felipe, a Computer Science student and software developer with a focus on Backend, Enthusiastic about artificial intelligence.  
 Here, I document my evolution process.
 
 ###
