@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Felipe, a Computer Science student and software developer with a focus on Backend, Enthusiastic about artificial intelligence.  
+I'm Felipe, a Computer Science student and software developer with a focus on Backend. I'm an enthusiast of artificial intelligence and automation.  
 Here, I document my evolution process.
 
 ###
@@ -12,7 +12,6 @@ Here, I document my evolution process.
   <img align="center" alt="Php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
